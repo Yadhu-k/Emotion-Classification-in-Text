@@ -12,7 +12,7 @@ Develop machine learning models to classify emotions in text samples.
     Train the following machine learning models
     a)Naive Bayes
     b)Support Vector Machine 
-  4. Model Comparison (2 marks)
+  4. Model Comparison
     Evaluate the model using appropriate metrics (e.g., accuracy, F1-score).
     Provide a brief explanation of the chosen model and its suitability for emotion classification.
 
